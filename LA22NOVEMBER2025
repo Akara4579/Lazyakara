@@ -3774,15 +3774,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/coLpmrh.jpeg" group-title="NASIONAL",TVRI 2 ON (RT)
 https://fta1-cdn-flr.visionplus.id/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
-#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://i.imgur.com/XZ1Y89G.jpeg" group-title="SPORTS",TVRI Sport 1
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://103.66.62.83:8000/play/a00n/index.m3u8
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/XZ1Y89G.jpeg" group-title="NASIONAL",TVRI Sport 2
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -4129,20 +4120,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 https://i.imgur.com/K3FXClz.jpeg"
 
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA TV (OKT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
-http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 
-#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBA.TV.HD.us2" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL" radio="false",NBA TV (OKT)
-https://fl25.moveonjoy.com/NBA_TV/index.m3u8
 
-=====
+===
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4215,46 +4195,29 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",Sportstars 4 (AG)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 ---------NEW 3/6/2025
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+COVER OLAHRAGA LOKAL 
+SPOTV 1 
+SPOTV 2 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (OKT)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#http://103.179.182.117:6768/hls/15/15.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg group-title="OLAHRAGA LOKAL",SPOTV (NOV)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 2 (OKT)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 2 (NOV)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (OKT2)
-https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL", SPOTV 2 (OKT2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
-
 
 
 FILM
@@ -5107,42 +5070,29 @@ http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",SkySportMotoGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+============
+SPOTV
+++++++++++++
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 1 (OKT)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#http://103.179.182.117:6768/hls/15/15.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV (NOV)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 2 (OKT)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 2 (NOV)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 1 (OKT2)
-https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP", SPOTV 2 (OKT2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 
 
 ================================
@@ -5241,9 +5191,6 @@ GAYA HIDUP
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/k8RQgiu.jpeg",GAYA HIDUP
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg group-logo="https://i.imgur.com/k8RQgiu.jpegg" group-title="GAYA HIDUP", Tiny House Nation (AG)
-https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-26mfabjsursqh/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", This Old House (AG)
 https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
 
@@ -5323,26 +5270,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 NEW 4/8/2025
 ================================
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",First Lifestyle 1 ON (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Food Network (FAG)
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Asian Food Network 1 ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
-
-
-
 #EXTINF:-1 group-title="GAYA HIDUP" tvg-id="SONE" tvg-url="https://i.imgur.com/DGiqSFD.jpeg",ONE 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5356,16 +5283,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
 #EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",Entertainment 1 ON (R)
 
-============20/1/2025 GAYA HIDUP============
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="FashionTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/vgxWXsf.jpeg",Fashion TV SD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+============20/1/2025 GAYA HIDUP============ FAHSION TV LOGO https://i.imgur.com/vgxWXsf.jpeg
 
-https://webhdrunns.mizhls.ru/lb/premium688/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/vgxWXsf.jpeg" group-title="GAYA HIDUP",Fashion TV FHD
-============20/1/2025 GAYA HIDUP============
 
 =====EDT [21/11/2024]
 
@@ -5410,18 +5329,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="CrimeInvestigation.id" tvg-url="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation 1 ON (V)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
-
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation (I)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
-==========
+==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -6151,8 +6059,21 @@ NEW 4/5/2025
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 ff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC", UK: TNT Sports 1 HD
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495258.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6160,18 +6081,8 @@ http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/495258.ts
 #EXTINF:-1 tvg-id="701" group-title="OLAHRAGA | UFC" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",Unifi Sports 1 HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",RmcSport1
-https://wahyu1ptv.pages.dev/RmcSport1-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",PFL
 https://wahyu1ptv.pages.dev/PFL-HD.m3u8
-
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",Combate Brasil (AG)
-https://events3.liveboxpro.com/event/89.m3u8
 
 
 
@@ -6186,84 +6097,61 @@ GOLF
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sInIG51.jpeg",OLAHRAGA | GOLF
 
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="OLAHRAGA | GOLF",Golf Channel USA SD
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA SD" group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg",Golf Channel USA SD
 https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="OLAHRAGA | GOLF",Golf Channel USA HD
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA HD" group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg",Golf Channel USA HD
 https://tvpass.org/live/GolfChannel/hd
-#EXTINF:-1  tvg-name="Sky Sport Top Event FHD" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",DE: Sky Sport Top Event FHD
+#EXTINF:-1  tvg-name="Sky Sport Top Event FHD" tvg-id="Sky.Sport.Top.Event.de" tvg-logo=https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",DE: Sky Sport Top Event FHD
 https://a1xs.vip/120003
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712888702.png" group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg" ,SkySportsGolf
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/skysportsgolf.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="ttps://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",GOLF+
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
 ==========
 OLAHRAGA | VOLLYBALL
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/dSA83Hx.jpeg",OLAHRAGA | VOLLYBALL
 
-=====>>>25/3/2025<<<====
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",TVRI SPORT HD 1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",TVRI SPORT HD 2
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",TVRI Sport 3
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-====>>>25/3/2025<<<====
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",MOJI SPORT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
 
-
-
-
-
---------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+++++
+SPOTV VOLLY
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 1 (OKT)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#http://103.179.182.117:6768/hls/15/15.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo=https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV (NOV)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 2 (OKT)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 2 (NOV)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 1 (OKT2)
-https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL", SPOTV 2 (OKT2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
-
 
 ================================
 
@@ -6304,30 +6192,7 @@ OLAHRAGA | BADMINTON
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/P47cFSh.jpeg",OLAHRAGA | BADMINTON
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Star Sports Select 1 HD
-https://maldivesn.net/hilaytv/starsportsselect1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Star Sports Select 2 HD
-https://maldivesn.net/hilaytv/starsportsselect2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",ASTRO BADMINTON 3 (MH)
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-
-
-==================
-
----------NEW 3/6/2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Soccer Channel (MJ)
@@ -6357,6 +6222,29 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Sportstars 4 (AG)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 ---------NEW 3/6/2025
+
+-------------------
+SPOTV  | BADMINTON
+___________________
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",SPOTV (NOV)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",SPOTV 2 (NOV)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
 ===========
@@ -6464,45 +6352,30 @@ https://wahyu1ptv.pages.dev/Match!Football2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",062. Match!Football3
 https://wahyu1ptv.pages.dev/Match!Football3-HD.m3u8
 
+tnt sports
+COVER OLAHRAGA POPULER 2 https://i.imgur.com/1vqowr7.png
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNTSPORT3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNTSPORT4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport4.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT Sports 1 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT Sports 2 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT Sports 3 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT Sports 4 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT Sports 5 (OKT)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
-
+====tnt sports hd
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",GB : TNT SPORTS 03
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258605
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",GB : TNT SPORTS 04
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258610
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -6741,43 +6614,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 1 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpegg" group-title="OLAHRAGA POPULER",TNT Sports 2 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 3 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 4 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
-
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 5 (OKT)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
 
 =====================================================================================================
 NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024-NEW 4/5/2024NEW 4/5/2024-NEW 4/5/2024
@@ -6854,62 +6691,60 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 #EXTINF:-1 tvg-id="701" group-title="OLAHRAGA POPULER" tvg-name="unifi Sports 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg",Unifi Sports 1 HD
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", TSN 1 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",TSN 1
-http://117tv.icu:8080/live/X5xRz0/944877/47440.m3u8
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", TSN 2 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",TSN 2 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47442.m3u8
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", TSN 3 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",TSN 3 HD
-http://117tv.icu:8080/live/X5xRz0/944877/47444.m3u8
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", TSN 4 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",TSN 4
-http://117tv.icu:8080/live/X5xRz0/944877/66783.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/XDDHZzi.jpeg " group-title="OLAHRAGA POPULER",TSN 5
-http://117tv.icu:8080/live/X5xRz0/944877/57295.m3u8
-
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", TSN 5 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 =======11/2/2025
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
+spotv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 1 (OKT)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#http://103.179.182.117:6768/hls/15/15.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV (NOV)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 2 (OKT)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 2 (NOV)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 1 (I) (WORTH)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",SPOTV 1 (OKT2)
-https://ott.udptv.xyz/stream/astro/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER", SPOTV 2 (OKT2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf870ded4d73a5f259d5759a9fc0ba2e:09f0dcec68abe4fb441a05140557d2ff
-https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd
 
 
 #EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", SSC 1
@@ -7260,14 +7095,12 @@ LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LI
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 COVER BARU LIVE LIGA INGGRIS "https://i.imgur.com/FjKJyFG.jpeg"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="OLAHRAGA POPULER",TNT Sports 1 (OKT)
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
 
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",LIVE 1 Monomax 1
 https://raw.githubusercontent.com/playtvthai/m3u8/main/m3u8/sports/max1.m3u8
@@ -7603,13 +7436,12 @@ https://wahyu1ptv.pages.dev/SkySportBundesliga1-HD.m3u8
 https://wahyu1ptv.pages.dev/SkySportBundesliga2-HD.m3u8
 
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXIYxfh.jpeg" group-title="BOLA | BUNDESLIGA",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -7935,13 +7767,21 @@ https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
 ==================
 NEW 4/5/2025
 ==================
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8074,21 +7914,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
-#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNT SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPT3YVW.jpeg" group-title="BOLA | UEFA NATIONS LEAGUE",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8239,21 +8079,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNT SPORTS 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
 
-#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNT SPORTS 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bI76pm.jpeg" group-title="BOLA | UEFA EROPA LEAGUE",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8371,8 +8211,21 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",072. ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",063. TNTSports1
-https://wahyu1ptv.pages.dev/TNTSports1-HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",TNTSPORT1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES",GB : TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+
+===
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",TNTSPORT2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/2jYyFR2.jpeg" group-title="BOLA | UEFA CHAMPIONS LEAGUES ",GB : TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | UEFA CHAMPIONS LEAGUES",067. ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -8740,6 +8593,38 @@ Halaman Tidak Tersedia
 
 
 
+
+#EXTINF:-1 group-logo="https://i.imgur.com/k513XAQ.jpeg",BOLA | FIFA U 17 WORLD CUP QATAR 2025
+
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.imgur.com/k513XAQ.jpeg" group-title="FIFA U 17 WORLD CUP QATAR 2025", TSN 1 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.imgur.com/k513XAQ.jpeg" group-title="FIFA U 17 WORLD CUP QATAR 2025", TSN 2 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.imgur.com/k513XAQ.jpeg" group-title="FIFA U 17 WORLD CUP QATAR 2025", TSN 3 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.imgur.com/k513XAQ.jpeg" group-title="FIFA U 17 WORLD CUP QATAR 2025", TSN 4 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.imgur.com/k513XAQ.jpeg" group-title="FIFA U 17 WORLD CUP QATAR 2025", TSN 5 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 
 
