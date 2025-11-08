@@ -9,36 +9,28 @@ from github import Github, GithubException
 # =================== KONFIGURASI ===================
 GITHUB_TOKEN = os.getenv("GITHUB_PAT")
 
-# Sumber playlist mentah (tanpa footer akhir, nanti ditambah otomatis)
 SOURCE_URL   = "https://raw.githubusercontent.com/Xaffin/-/refs/heads/main/%E0%B8%AD%E0%B8%B1%E0%B8%9F%E0%B8%9F%E0%B8%B4%E0%B8%99"
-
-# Target repo & branch
 TARGET_REPO  = "Akara4579/Lazyakara"
 GIT_BRANCH   = "main"
 
 COMMIT_MSG   = "Auto update: Sync playlist from source + footer update"
 SLEEP_BETWEEN_COMMITS_SEC = 0.7
 
-# Jam kadaluarsa (WIB) berdasar tanggal pada nama file
 EXPIRE_HOUR_LOCAL   = 13
 EXPIRE_MINUTE_LOCAL = 0
 
-# Marker untuk mematikan sync
 SYNC_DISABLED_MARKER = ".SYNC_DISABLED"
 
-# File yang pasti di-skip
+# File yang pasti tidak boleh disentuh
 SKIP_FILES = {
-    "update_github_file.py",  # pastikan skrip ini tidak tersentuh
+    "update_github_file.py",
     SYNC_DISABLED_MARKER,
 }
 
-# Hanya proses file playlist
-ALLOWED_EXTS = (".m3u", ".m3u8")
-
-# (Penjaga tambahan) Kalau file lama tidak mengandung '#EXTM3U', jangan di-overwrite
+# Kalau isi lama tidak tampak seperti playlist (#EXTM3U), jangan overwrite
 FORCE_OVERWRITE_NON_PLAYLIST = False
 
-# =================== WIB / WITA / WIT ===================
+# =================== WIB ===================
 JAKARTA_TZ = timezone(timedelta(hours=7))
 
 def now_jakarta() -> datetime:
@@ -64,9 +56,6 @@ ID_MONTHS = {
 }
 
 def parse_date_from_name(name: str) -> Optional[date]:
-    """
-    Cari pola tanggal seperti 03NOVEMBER2025 / 3NOV2025 (DDMONYYYY) pada nama file.
-    """
     upper = name.upper()
     m = re.search(r'(\d{1,2})([A-Z]+)(\d{4})', upper)
     if not m:
@@ -130,19 +119,16 @@ def repo_has_marker(repo) -> bool:
 def looks_like_playlist(text: str) -> bool:
     return "#EXTM3U" in text.upper()
 
-def is_allowed_playlist_file(name: str) -> bool:
-    return name.lower().endswith(ALLOWED_EXTS)
-
 def update_file(repo, name: str, base_text: str):
     """
-    Update satu file playlist:
-    - Jika sudah expired → isi diganti expired_block() + footer.
-    - Jika belum → isi diset ke base_text (sumber) + footer.
-    - Hanya berlaku untuk file dengan ekstensi ALLOWED_EXTS.
-    - Tidak overwrite file non-playlist (tanpa '#EXTM3U') kecuali FORCE_OVERWRITE_NON_PLAYLIST=True.
+    Update satu file:
+      - expired → pakai expired_block() + footer
+      - belum expired → pakai base_text + footer
+      - skip file pada SKIP_FILES
+      - jangan overwrite file non-playlist (tanpa #EXTM3U) kecuali FORCE_OVERWRITE_NON_PLAYLIST=True
     """
-    if not is_allowed_playlist_file(name):
-        print(f"⏭️  {name}: Bukan file playlist ({ALLOWED_EXTS}), skip.")
+    if name in SKIP_FILES:
+        print(f"⏭️  {name}: Masuk daftar pengecualian, skip.")
         return
 
     expired = is_expired_by_name(name)
@@ -153,12 +139,12 @@ def update_file(repo, name: str, base_text: str):
         contents = repo.get_contents(name, ref=GIT_BRANCH)
         old_text = contents.decoded_content.decode("utf-8")
 
-        # Penjaga: jangan overwrite file yang isinya bukan playlist
         if not looks_like_playlist(old_text) and not FORCE_OVERWRITE_NON_PLAYLIST:
-            print(f"⏭️  {name}: File lama tidak terdeteksi sebagai playlist (#EXTM3U), skip untuk keamanan.")
+            print(f"⏭️  {name}: File lama tidak terdeteksi sebagai playlist (#EXTM3U), skip.")
             return
 
-        if strip_footer(old_text).strip() == strip_footer(new_content).strip():
+        # Bandingkan FULL content agar perubahan footer/status tidak di-skip
+        if old_text.strip() == new_content.strip():
             print(f"➡️  {name}: Tidak ada perubahan, skip.")
             return
 
@@ -166,7 +152,6 @@ def update_file(repo, name: str, base_text: str):
         print(f"✅  {name}: Diperbarui.")
     except GithubException as e:
         if e.status == 404:
-            # File belum ada → buat baru
             repo.create_file(name, COMMIT_MSG, new_content, branch=GIT_BRANCH)
             print(f"🆕  {name}: Dibuat baru.")
         else:
@@ -180,18 +165,15 @@ def main():
     g = Github(GITHUB_TOKEN)
     repo = g.get_repo(TARGET_REPO)
 
-    # Hentikan jika ada marker
     if repo_has_marker(repo):
         print("⚠️  Marker .SYNC_DISABLED ditemukan, proses dihentikan.")
         return
 
-    # Ambil sumber playlist & bersihkan footer jika ada
     base_src = get_source_content()
     if not base_src:
         return
     base_clean = strip_footer(base_src)
 
-    # Ambil daftar konten di root repo (non-recursive, sama seperti versi awal)
     print(f"📂 Mengambil daftar file dari {TARGET_REPO}@{GIT_BRANCH} ...")
     try:
         files = repo.get_contents("", ref=GIT_BRANCH)
@@ -202,12 +184,6 @@ def main():
     for idx, f in enumerate(files, 1):
         if f.type != "file":
             continue
-
-        # Skip file terlarang
-        if f.name in SKIP_FILES:
-            print(f"⏭️  {f.name}: Masuk daftar pengecualian, skip.")
-            continue
-
         print(f"\n({idx}) Proses {f.name}")
         update_file(repo, f.name, base_clean)
         pytime.sleep(SLEEP_BETWEEN_COMMITS_SEC)
