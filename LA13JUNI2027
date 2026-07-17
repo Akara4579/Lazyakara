@@ -4225,16 +4225,14 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 ANIPLUS COVER https://i.imgur.com/X3M5t4B.jpeg
 
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://i.imgur.com/v9yfAEM.jpeg" group-title="ANAK",ANIMAX
+#EXTINF:-1 group-title="ANAK" tvg-id="Animax.id" tvg-logo=""https://i.imgur.com/v9yfAEM.jpeg",🆕Animax (167)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
 
 
 
@@ -4255,7 +4253,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",NICKELODEON (US) (167)
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",NICKELODEON (INDO) (167)
 https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
 
 ============
@@ -4312,6 +4310,14 @@ FUN PLANET COVER : https://i.imgur.com/6cGSc3e.jpeg"
 
 MY KIDS COVER https://i.imgur.com/vdL9Wa6.jpeg
 DREAMWORKS INDO https://i.imgur.com/rzdTiDx.jpeg
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",🆕Dreamworks INDO HD (167)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
 
 ======
 
@@ -4451,25 +4457,19 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 =======================
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg group-title="OLAHRAGA LOKAL",SPOTV ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 2 ✅
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg" group-title="OLAHRAGA LOKAL",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
 FILM
@@ -5726,25 +5726,23 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+=============
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",SPOTV (NOV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",SPOTV 2 (NOV)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+==============
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5807,25 +5805,23 @@ http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
 SPOTV
 ++++++++++++
 
+--===============
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV (NOV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 2 (NOV)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+=============
 
 
 ================================
@@ -7110,26 +7106,23 @@ http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 
-
+===================
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",SPOTV ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",SPOTV 2 ✅
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+==================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",CCTB Golf & Tennis(Bhs China) ✅
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
@@ -7162,25 +7155,24 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=l
 ++++
 SPOTV VOLLY
 
+===============
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo=https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV (NOV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 2 (NOV)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+===============
+
 
 ================================
 
@@ -7268,25 +7260,24 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 -------------------
 SPOTV  | BADMINTON
 ___________________
+
+==========================
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",SPOTV (NOV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",SPOTV 2 (NOV)
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+
+=====================
 
 
 ===========
@@ -7384,6 +7375,20 @@ OLAHRAGA POPULER
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/XDDHZzi.jpeg",OLAHRAGA POPULER
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",🆕SpoTV (167)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",🆕SpoTV 2 (167)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg" group-title="OLAHRAGA POPULER",beIN Sports 3 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7778,25 +7783,22 @@ NEW CATEGORY - BILLIARD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9ZxbQH.png" group-title="OLAHRAGA | BILLIARD",CCTV Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
+====================
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/t9ZxbQH.png" group-title="OLAHRAGA | BILLIARD",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="auto.spotv" tvg-id= "SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/t9ZxbQH.png" group-title="OLAHRAGA | BILLIARD",🆕SpoTV (167)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/t9ZxbQH.png" group-title="OLAHRAGA | BILLIARD",SPOTV 2 
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/t9ZxbQH.png" group-title="OLAHRAGA | BILLIARD",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+====================
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
