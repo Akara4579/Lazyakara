@@ -3985,7 +3985,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
-#EXTINF:-1 tvg-id="BTV.id" group-title="Indonesia Channels" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🆕BTV (247)
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/sHTGdK6.jpeg" group-title="NASIONAL",🆕BTV (247)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 
@@ -4429,13 +4429,13 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg"" group-title="OLAHRAGA LOKAL",🆕Sportstars 4 HD (167)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="LOKAL" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg",🆕beIN Sports 1 (167)
+#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="OLAHRAGA LOKAL" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg",🆕beIN Sports 1 (167)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="LOKAL" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg",🆕beIN Sports 2 (167)
+#EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="OLAHRAGA LOKAL" tvg-logo="https://i.imgur.com/IQkwAXJ.jpeg",🆕beIN Sports 2 (167)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5846,7 +5846,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",🆕 Soccer Channel (167)
 http://103.137.83.62:9090/play/35/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNISL",🆕Sportstars 1 HD (167)
+#EXTINF:0 tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg" group-title="OLAHRAGA | TENNIS",🆕Sportstars 1 HD (167)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -8036,7 +8036,7 @@ ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL I
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;BOLA | VOLLYBALL;BOLA | FRIENDYLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA TENNIS",🆕SOCCER CHANNEL (🏆AIOS)
+#EXTINF:-1 tvg-id="Soccer.Channel.id" tvg-name="Soccer Channel" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | VOLLYBALL;BOLA | FRIENDLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA | TENNIS",🆕SOCCER CHANNEL (🏆AIOS)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
@@ -8045,7 +8045,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;BOLA | VOLLYBALL;BOLA | FRIENDYLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA TENNIS",🆕SPORTSTARS 2 (🏆AIOS)
+#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA| VOLLYBALL;BOLA | FRIENDLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA | TENNIS",🆕SPORTSTARS 2 (🏆AIOS)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
@@ -8055,8 +8055,24 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;BOLA | VOLLYBALL;BOLA | FRIENDYLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA TENNIS",🆕SPORTSTARS 4 (🏆AIOS)
+#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA | VOLLYBALL;BOLA | FRIENDLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA | TENNIS",🆕SPORTSTARS 4 (🏆AIOS)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+===================================BEIN SPORT AU
+#EXTINF:0 tvg-id="BEINSPORT 1 FR" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP",BEIN SPORT 1 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP",BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
