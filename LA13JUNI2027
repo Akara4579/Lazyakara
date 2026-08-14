@@ -5525,9 +5525,17 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="auto.kix" tvg-logo=""https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕KIX (048M)
+#EXTINF:-1 tvg-id="auto.kix" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕KIX (048M)
 https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" #EXTINF:-1 tvg-id="auto.kix" tvg-logo="https://i.imgur.com/tCmJ78c.jpeg" group-title="DUNIA | KOREA",🆕KIX (🚀8826)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6908,14 +6916,55 @@ singapura
 
 Channel 5 logo : https://i.imgur.com/xqYSItV.jpeg
 
-#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel 5 
-http://cdn6.163189.xyz/163189/ch5
+=============================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕Channel 5  (🚀8826)
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel 8 
-http://cdn6.163189.xyz/163189/ch8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕Channel 8 (🚀8826)
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel U" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel U
-http://cdn6.163189.xyz/163189/chu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕Channel U  (🚀8826)
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕Suria  (🚀8826)
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕Vasantham  (🚀8826)
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd 
+
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕meWATCH 1 (🚀8826)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",🆕meWATCH 2 (🚀8826)
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+=============================
 
 #EXTINF:-1 group-title="DUNIA | SINGAPURA " tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.imgur.com/xqYSItV.jpeg", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -6962,14 +7011,14 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
-#EXTINF:-1 tvg-id="Dragon TV" tvg-name="Dragon TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",DRAGON TV
-https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_key=24312e82bb4d44d3a94f98c0a1bb4443:7f4272e8205159a54a1ec5db818b8576
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" tvg-name="Dragon TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕DRAGON TV(🚀8826)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6984,31 +7033,35 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/63e4d9f383cb4ca59317c7be9407e228/in
 http://119.82.250.109:8080/nl.m3u8?id=1030
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
-#EXTINF:-1 tvg-id="Jiangsu TV" tvg-name="Jiangsu TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",JIANGSU TV
-https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_key=5ee5f4313ab54bce9f93cb166ea9d685:010f5ee14b27407c3691f73356ff32b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Jiangsu TV" tvg-name="Jiangsu TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕JIANGSU (🚀8826 V1)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d397670017d94f648f4942d3f35b2f10:bd3353307516a1865bf83d6b1ac60368
-#EXTINF:-1 tvg-id="Zhejiang TV" tvg-name="Zhejiang TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",ZHEJIANG TV
-https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+#EXTINF:-1 tvg-id="Jiangsu TV" tvg-name="Jiangsu TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕JIANGSU (🚀8826 V2)
+http://119.82.250.109:8080/nl.m3u8?id=1032
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",ANHUI TV
-https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+#EXTINF:-1 tvg-id="Zhejiang.Satellite.TV.hk" tvg-name="Zhejiang TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕ZHEJIANG TV (🚀8826 V1)
+http://119.82.250.109:8080/nl.m3u8?id=1031
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="Zhejiang.Satellite.TV.hk" tvg-name="Zhejiang TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕ZHEJIANG TV (🚀8826 V2)
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a73e886f584bbb959821fd97eaaa31:357e360c301c4f67862c46588545067d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://i.imgur.com/x17WfiT.jpeg" group-title="DUNIA | CHINA",🆕ANHUI TV (🚀8826 V2)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/index.mpd
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7314,15 +7367,29 @@ Astro citra : https://i.imgur.com/O1RVjqG.jpeg
 
 ===============
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV 3 (❌ UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",🆕ASTRO AOD (🚀8826)
+https://cdn.qd.je/163189.php?id=aod
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",🆕ASTRO HUANXI (🚀8826)
+https://cdn.qd.je/163189.php?id=hxt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",🆕8TV (MLY) (🚀8826)
+https://cdn.qd.je/163189.php?id=8tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",🆕IQIYI (MLY) (🚀8826)
+https://cdn.qd.je/163189.php?id=iqiyi
+
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV 3 (❌ UNDER MAINTENANCE)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV8 (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV8 (❌ UNDER MAINTENANCE)
 http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
 
-#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg",TV9 (❌ UNDER MAINTENANCE)
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg",TV9
+#https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
 
 
 
@@ -7373,7 +7440,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-url="https://bit.ly/RtmEpg" tvg-id=" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",RTM Asean (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-url="https://bit.ly/RtmEpg" tvg-id=" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",RTM Asean (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="DUNIA | MALAYSIA" ch-number="136" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",Oh My Ceria!
@@ -7384,25 +7451,25 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 ====EDT 2 [22/11/2024]
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/dbmZcJq.jpeg" tvg-url=" group-title="DUNIA | MALAYSIA",TV 1 (❌ UNDER MAINTENANCE)
+XTINF:-1 tvg-id="TV1.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/dbmZcJq.jpeg" tvg-url=" group-title="DUNIA | MALAYSIA",TV 1 (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/V8bNMRP.jpeg" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA.xml" group-title="DUNIA | MALAYSIA",TV 2 (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://i.imgur.com/V8bNMRP.jpeg" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIA.xml" group-title="DUNIA | MALAYSIA",TV 2 (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium1.xml" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/qBrWPlP.jpeg",TV Okey (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium1.xml" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/qBrWPlP.jpeg",TV Okey (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/5szMpfM.jpeg" group-title="DUNIA | MALAYSIA",TV 6 (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id=" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/5szMpfM.jpeg" group-title="DUNIA | MALAYSIA",TV 6 (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/bXhTMNm.jpeg" group-title="DUNIA | MALAYSIA",Sukan RTM (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/bXhTMNm.jpeg" group-title="DUNIA | MALAYSIA",Sukan RTM (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7yLUZ28.jpeg" group-title="DUNIA | MALAYSIA",Berita RTM (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7yLUZ28.jpeg" group-title="DUNIA | MALAYSIA",Berita RTM (❌ UNDER MAINTENANCE)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5 
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/VsDO07Q.jpeg" group-title="DUNIA | MALAYSIA",Astro Awani (❌ UNDER MAINTENANCE)
+EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/VsDO07Q.jpeg" group-title="DUNIA | MALAYSIA",Astro Awani (❌ UNDER MAINTENANCE)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 ==========
