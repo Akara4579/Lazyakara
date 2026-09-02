@@ -3773,14 +3773,6 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg" group-title="NASIONAL",🆕SINDONEWS (🚀8826)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-
 #EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" tvg-id="MNCNews.id" group-title="NASIONAL" event-duration="4",PERSIB VS BALI UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
@@ -3805,12 +3797,6 @@ http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 ###https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
 ###https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V0)
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -3831,16 +3817,6 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar - Server 3" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V001)
 https://bigdickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
-
-
-#EXTINF:-1 tvg-id="Indosiar  Ott Nav" tvg-name="Indosiar  Ott Nav - Server 1" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR (🚀8826 V002)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=2058&type=drm
-http://103.172.187.30:80/play/u9llyoKSGKK1GVWDBfWH9Az8rx72M0_ZzjagtFzTPbI/m3u8
-
 
 ==================PIALA PRES==============
 
@@ -3876,7 +3852,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV - Server 3" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v0)
 https://bigdickgital.semar26.xyz/fetch?id=sdigital.m3u8&auth=sdgtlsemar25
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3894,11 +3869,6 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
 https://tvratu.my.id/vid/index.mpd?id=204
 
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV - Server 4" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",🆕SCTV (🚀8826 v3)
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna/204.mpd
 
 ---------
 INEWS COVER https://i.imgur.com/NTYY97h.jpeg
@@ -3915,14 +3885,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ----------dd
 
 --------------EDIT INI-----------
-
-
-#EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/tdlUrDv.jpeg" group-title="NASIONAL" tvg-id="ANTV",🆕Antv (🚀8826)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
@@ -3954,22 +3916,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV - Server 2" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" ch-number="6" group-title="NASIONAL",🆕Trans TV  (🚀8826 v0)
 https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
-#EXTINF:-1 tvg-id="800.trans" tvg-logo="https://i.imgur.com/lKH1wII.jpeg" ch-number="6" group-title="NASIONAL",Trans TV  (🆕 🚀8826 v1)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=6&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=6.play
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name=""  tvg-logo="https://i.imgur.com/lKH1wII.jpeg" ch-number="6" group-title="NASIONAL",Trans TV  (🆕 🚀8826 v2)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7 - Server 2" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 (🚀8826 v01)
 https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 
@@ -3977,30 +3923,6 @@ https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=transsemar25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="801.trans" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 (🚀8826 v1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 (🚀8826 v2)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=7&type=fitnah
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 (🚀8826 v3)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 
 
@@ -4062,13 +3984,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/in
 
 ===
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" tvg-url="https://bit.ly/JejeVisionEPG" group-title="NASIONAL",CNBC INDONESIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8
+CNBC INDONESIA https://i.imgur.com/yxjrNLR.jpeg
+CNN INDONESIA https://i.imgur.com/yxjrNLR.jpeg
 
-#EXTINF:-1 tvg-id="cnn indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/yxjrNLR.jpeg" group-title="NASIONAL",🆕CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
 
 
 ========10/2/2025
