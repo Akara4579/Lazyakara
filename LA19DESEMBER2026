@@ -6564,29 +6564,21 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",LIVE 0 ✅
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.148.44.38:8000/play/a05c/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-http://202.169.224.202:8800/udp/239.4.4.2:1234
+#EXTINF:-1 group-title="https://i.imgur.com/oM2YSxv.jpeg" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg", Bhayangkara vs Persebaya Surabaya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel19.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",LIVE 1 ✅ (CEK INI)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
-http://103.148.44.38:8000/play/a05c/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-http://202.169.224.202:8800/udp/239.4.4.2:1234
+#EXTINF:-1 group-title="https://i.imgur.com/oM2YSxv.jpeg" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg", Borneo vs Persija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel19.m3u8
 
+#EXTINF:-1 group-title="https://i.imgur.com/oM2YSxv.jpeg" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",  Borneo vs Persija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
+https://live2.domainkqt.cc/live/channel6.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",LIVE 2 ✅
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 =====>>>25/3/2025<<<====
 ===
 
@@ -8540,31 +8532,25 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 ====================================================================================================================================================================
 ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR
 ============================================================ALLINONEBAR=============================================================================================
+#EXTINF:-1 group-title="SPORT🇲🇨", tvg-id="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA;OLAHRAGA | FORMULA 1",🆕BEIN SPORTS 1 (🚀8826)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=122&type=fitnah
-#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
-###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
-#EXTINF:-1 tvg-id="beIN.Sports.1.id" tvg-name="beIN Sports" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA",🆕BEIN SPORTS 1 (🚀8826)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 group-title="SPORT🇲🇨", tvg-id="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA;OLAHRAGA | FORMULA 1",🆕BEIN SPORTS 2 (🚀8826)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=123&type=fitnah
-#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
-###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
-#EXTINF:-1 tvg-id="beIN.Sports.2.id" tvg-name="beIN Sports 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA",🆕BEIN SPORTS 2 (🚀8826)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#EXTINF:-1 group-title="SPORT🇲🇨", tvg-id="" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA;OLAHRAGA | FORMULA 1",🆕BEIN SPORTS 3 (🚀8826)BEIN SPORTS ID 3
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=124&type=fitnah
-#####KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
-###KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
-#EXTINF:-1 tvg-id="beIN.Sports.3.id" tvg-name="beIN Sports 3" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | LALIGA",🆕BEIN SPORTS 3 (🚀8826)
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
