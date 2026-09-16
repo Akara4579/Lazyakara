@@ -4225,6 +4225,23 @@ LOGO LAMA https://i.imgur.com/0GiICTY.jpeg
 
 
 =================================================================
+#EXTINF:-1 tvg-id="401" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO FHD (UJI COBA)
+https://ott.djdoolky76.io/api/streams/162/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-id="402" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO", HBO Hits HD with Chinese Subtitles (UJI COBA)
+https://ott.djdoolky76.io/api/streams/165/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-id="403" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",  HBO Family HD (UJI COBA)
+https://ott.djdoolky76.io/api/streams/164/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO Signature (with Chinese Subtitles)(UJI COBA)
+https://ott.djdoolky76.io/api/streams/163/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+#EXTINF:-1 tvg-id="405" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",Cinemax HD (UJI COBA)
+https://ott.djdoolky76.io/api/streams/166/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
+
+=================================================================
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/hgyPQif.png group-title="HBO",HBO (NON SUB)
 http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -4750,6 +4767,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 ====
 WARNERTV LOGO  https://i.imgur.com/kSNGK5D.jpeg
 
+#EXTINF:-1 tvg-id="" group-title="FILM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",🆕Warner TV (NON SUB)
+https://ott.djdoolky76.io/api/streams/88/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" group-title="FILM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg",🆕Crime Investigation (167)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -4969,6 +4989,7 @@ https://ott.djdoolky76.io/api/streams/229/manifest.m3u8?token=eyJhbGciOiJIUzI1Ni
 https://ott.djdoolky76.io/api/streams/181/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 ==========
 
+
 ===========hits movie https://i.imgur.com/A58Jd0u.jpeg
 
 
@@ -4997,13 +5018,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM", THRILL 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM", THRILL (CG)
+https://ott.djdoolky76.io/api/streams/76/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
 ===EDT 2
 
@@ -5413,6 +5429,54 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b1
 
 #EXTINF:-1 tvg-id="47" tvg-chno="83" tvg-name="bollywood-4u" tvg-logo="https://i.imgur.com/997Emg8.jpeg" group-title="DUNIA | INDIA NON SUB", Bollywood 4U
 https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+
+
+# =====================================================
+# CATEGORY: 20TH ASIAN GAMES AICHI-NAGOYA 2026
+# =====================================================
+#EXTINF:-1 group-logo="https://oca.asia/media/multimedia/images/2026.jpg",EVENT| ASIAN GAMES AICHI-NAGOYA 2026
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH01 (Mediacorp SG)" tvg-logo="https://oca.asia/media/multimedia/images/2026.jpg",Asian Games 2026 CH01 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH02 (Mediacorp SG)" tvg-logo="https://oca.asia/media/multimedia/images/2026.jpg",Asian Games 2026 CH02 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH03 (Mediacorp SG)" tvg-logo="https://oca.asia/media/multimedia/images/2026.jpg,Asian Games 2026 CH03 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH04 (Mediacorp SG)" tvg-logo=https://oca.asia/media/multimedia/images/2026.jpg,Asian Games 2026 CH04 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH05 (Mediacorp SG)" tvg-logo="https://oca.asia/media/multimedia/images/2026.jpg,Asian Games 2026 CH05 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
+
+#EXTINF:-1 group-title="EVENT| ASIAN GAMES AICHI-NAGOYA 2026" tvg-name="Asian Games 2026 CH06 (Mediacorp SG)" tvg-logo=https://oca.asia/media/multimedia/images/2026.jpg,Asian Games 2026 CH06 (Mediacorp SG)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
 
 ======================
@@ -8503,61 +8567,18 @@ TES BARU
 
 -->EVENT REAL YG DIATAS
 ___ INI ENGGA YA---sss
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++🔜Coventry City vs Brighton & Hove Albion🔜+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Coventry City vs Brighton & Hove Albion🔜 13 September 2026 20:00 ⭐ SKY SPORTS PREMIER LEAGUE HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312048.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Coventry City vs Brighton & Hove Albion🔜 13 September 2026 20:00 ⭐ SKY SPORTS PREMIER LEAGUE SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312239.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Coventry City vs Brighton & Hove Albion🔜 13 September 2026 20:00⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Coventry City vs Brighton & Hove Albion🔜 13 September 2026 20:00⭐BeIN Sports TR 3 (Andro)
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++🔜Manchester United vs Manchester City🔜+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30⭐BeIN Sports TR 3
-#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30⭐BeIN Sports TR 3 (Andro)
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30 ⭐ SKY SPORTS PREMIER LEAGUE HEVC HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312048.m3u8
-#EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30⭐ SKY SPORTS PREMIER LEAGUE SD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312239.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30 ⭐ Hub Premier 1
-http://iptvnow.nl:80/play/live.php?mac=00:1A:79:B6:5E:9E&stream=2065802&extension=ts&play_token=KI0Dwrrojh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30⭐ StarSports Selet 1
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:4F:CF:96&stream=373202&extension=ts&play_token=AT6eatSl46
-
-
-#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30 SPORTS - STAR SPORTS SELECT 1 FHD✅
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30 (FUBO SPORTS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-
-#EXTINF:-1  group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Manchester City🔜 13 September 2026 22:30 (MUTV ✅)
-https://get.perfecttv.net/mutv.mpd
 
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++MASTER+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐🔥USA NETWORK )
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=91882&extension=ts&play_token=RVygKCNvgb
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ USA NETWORK 
+http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=45466&extension=ts&play_token=lC5u7zmErr
+
+
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.HEVC.HD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE HEVC HD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ SKY SPORTS PREMIER LEAGUE HEVC HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312048.m3u8
 #EXTINF:-1 tvg-id="UK..SKY.SPORTS.PREMIER.LEAGUE.SD.us" tvg-name="┃UK┃ SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ SKY SPORTS PREMIER LEAGUE SD
@@ -8927,6 +8948,7 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1532831&ex
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bo02yXV.jpeg" group-title="BOLA | DFL-SUPERCUP",⭐Borussia Dortmund vs Bayern München (🔥USA NETWORK )
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=91882&extension=ts&play_token=RVygKCNvgb
+
 
 ==========
 LALIGA
