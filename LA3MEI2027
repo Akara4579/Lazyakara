@@ -5635,18 +5635,32 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/6
 # =====================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP
 
-#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="#EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC
+#EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/
 #EXTVLCOPT:http-origin=https://www.youtube.com
 https://www.youtube.com/watch?v=uySS77Zk0tA
 
-#EXTINF:-1  tvg-logo="#EXTINF:-1 group-logo="https://i.imgur.com/MTI7l2Z.jpeg",EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC SOCCER_CHANNEL (🏆AIOS)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" tvg-id="MNCNews.id" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP" event-duration="4",📌PERSIB BANDUNG VS PORT FC SOCCER_CHANNEL (🏆AIOS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 1 (HD J [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 1 (HD J [IOS]) • LIVE 18:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live.dyrur1.com/live/72597088_96756003774adad49b61e195228f0f26_1080p.m3u8?auth_key=1791473009-0-0-484b424f8dafbdc4b92991e1d6d73fee
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 2 (SD V [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 2 (SD V [IOS]) • LIVE 18:30
+#EXTVLCOPT:http-referrer=https://player.online909.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://player.online909.com/"}
+https://live.vivo155.com/live/sd-1-4561885.m3u8?txSecret=474bd0fbff8f34337e0b4332a05d8c66&txTime=6AC79078
+#EXTINF:-1 tvg-id="kltra_336e849d-2cdc-4be6-bc06-5705064" tvg-name="[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 3 (SD W [IOS]) • LIVE 18:30" tvg-logo="https://i.imgur.com/MTI7l2Z.jpeg" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",[ASEAN Club Championship] Lion City Sailors FC vs Cong An Ha Noi FC - Server 3 (SD W [IOS]) • LIVE 18:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6Mwea3yRzT881qnqdL_autosp.m3u8?txSecret=583daf7075f727aa3509d765e3c13f84&txTime=6AC8D038
 
 
 #EXTINF:-1 tvg-id="SPORTSTARS" tvg-name="SPORTSTARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/SPORTStars.png" group-title="EVENT | ASIA - ASEAN CLUB CHAMPIONSHIP",SPORTSTARS
