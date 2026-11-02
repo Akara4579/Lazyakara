@@ -5493,6 +5493,12 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
 
 --> HBO --
+
+HBO
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
+http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
+
+
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
