@@ -4583,10 +4583,29 @@ http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/1179170
 
 
 --> HBO --
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="hbo.id" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO (TESTED) (🌷)
+https://delivery.skuyytv.xyz/stream/hbo/playlist.m3u8?token=jyfds&v=20200807
+
+#EXTINF:-1 tvg-id="hbofamily.id" tvg-name="hbofamily.id" tvg-logo="https://i.imgur.com/DKGDvns.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO Family (TESTED) (🌷)
+https://delivery.skuyytv.xyz/stream/hbo_family/playlist.m3u8?token=jyfds&v=20200807
+
+#EXTINF:-1 tvg-id="hbohits.id" tvg-name="hbohits.id" tvg-logo="https://i.imgur.com/TC7GPhL.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO Hits (TESTED) (🌷)
+https://delivery.skuyytv.xyz/stream/hbo_hits/playlist.m3u8?token=jyfds&v=20200807
+
+#EXTINF:-1 tvg-id="hbosignature.id" tvg-name="hbosignature.id" tvg-logo="https://i.imgur.com/ChwEYqK.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ HBO Signature (TESTED) (🌷)
+https://delivery.skuyytv.xyz/stream/hbo_signature/playlist.m3u8?token=jyfds&v=20200807
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="cinemax.id" tvg-logo="https://i.imgur.com/Gm9NeNp.jpeg" group-title="HBO;FILM",⩇⩇:⩇⩇ Cinemax (TESTED) (🌷)
+https://delivery.skuyytv.xyz/stream/cinemax/playlist.m3u8?token=jyfds&v=20200807
+=============
 
 HBO
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🦇🦇)
 http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34433
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HBO" tvg-logo="https://i.imgur.com/P02lpW5.jpeg" group-title="HBO;FILM",🥤 HBO (🐸)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/HBO.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
