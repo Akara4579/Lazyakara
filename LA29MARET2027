@@ -3880,6 +3880,23 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/
 ============================================================================================
 FOX TAB - FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -FOX TAB -| 6/11/2026 | ALL PDCTN
 =============================================================================================
+--NASIONAL
+#EXTINF:-1 tvg-id="" tvg-name="IDS: RCTI VIP" tvg-logo="" group-title="🔵ASIA | INDONESIA VIP",IDS: RCTI (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34322
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: MNC TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="🔵ASIA | INDONESIA VIP",IDS: INDOSIAR (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34327
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: METRO TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/metrotv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: METRO TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34330
+#EXTINF:-1 tvg-id="" tvg-name="IDS: GTV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/gtv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: GTV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34331
+#EXTINF:-1 tvg-id="" tvg-name="IDS: KOMPAS TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/kompastv.png" group-title="🔵ASIA | INDONESIA VIP",IDS: KOMPAS TV (🦊🐾 FOXF) (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34332
+-----
 #EXTINF:-1 tvg-id="" tvg-name="IDS: HGTV VIP" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV INDO (🦊🐾 FOXF)
 http://31.43.191.125:8080/VIP012161760275967100/195205e7df12/34357
 
@@ -3960,6 +3977,18 @@ https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 https://proxy-v.rctiplus.id/live/web/galaxyprem/index.m3u8
 
 ===
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: CELESTIAL MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/celestialmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: CELESTIAL MOVIES (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34342
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: THRILL VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/thrill.png" group-title="🔵ASIA | INDONESIA VIP",IDS: THRILL (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34343
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hits.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34345
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: HITS MOVIES VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/hitsmovies.png" group-title="🔵ASIA | INDONESIA VIP",IDS: HITS MOVIES (ARE)
+http://31.43.191.125:8080/VIP0150178681448920/7eqj649eap3i/34352
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM",ORIGINALS (🦊🐾 FOXF) (OM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
