@@ -13482,28 +13482,40 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 +++++++++++++++++++++ALL MATCH+++++++++++++++
 
 
+21:00 Como vs Cagliari
+#EXTINF:-1 tvg-id="elevensports2nl.be" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",🔥21:00 Como vs Cagliari 🔥 Eleven Sports 2 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven2.m3u8
+=====
 
-#EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Torino vs Lecce Prima Sport 4(🏆AIOS) 
-#EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://polsey1.xn--zlqv28l.shop/puk4/usergendx3j2x4tqrnd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Torino vs Lecce⭐ Матч!Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://stream.mcquack.net/130/index.m3u8
-
-#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Cagliari vs Frosinone Prima Sport 5(🏆AIOS)
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5"tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥21:00 Lazio vs Leccee 🔥 Prima Sport 5(🏆AIOS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://polsey1.xn--zlqv28l.shop/000/
 https://polsey1.xn--zlqv28l.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",21:00 Cagliari vs Frosinone Astro Football
-http://royaltv.world:25461/live/S1048/9886/147.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",🔥21:00 Lazio vs Leccee 🔥 BEIN SPORT 2 AU (🏆AIOS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",🔥21:00 Lazio vs Leccee 🔥 Eleven Sports 4 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven3.m3u8
+=====
 
 
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ MASTER+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+#EXTINF:-1 tvg-id="elevensports1nl.be" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",PL: Eleven Sports 1 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven1.m3u8
+#EXTINF:-1 tvg-id="elevensports2nl.be" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",PL: Eleven Sports 2 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven2.m3u8
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",PL: Eleven Sports 3 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven3.m3u8
+#EXTINF:-1 tvg-id="elevensportsports4.pl" tvg-name="PL: Eleven Sports 4 HD" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",PL: Eleven Sports 4 HD
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",⭐ Матч!Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://stream.mcquack.net/130/index.m3u8
