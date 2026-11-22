@@ -4363,48 +4363,6 @@ https://rctiplus123.mikrofast.my.id/rctiplus/inews/redirect.m3u8
 
 ==============LAIN LAIN
 
-#EXTINF:-1 group-logo="",Sports
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",Arena Bola 2 (token)
-http://royaltv.world:25461/live/M8012/3422/13780.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Grandstand
-http://royaltv.world:25461/live/M8012/3422/146.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Premier League (token)
-http://royaltv.world:25461/live/M8012/3422/144.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Premier League 2 (token)
-http://royaltv.world:25461/live/M8012/3422/145.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Premier League 3
-http://royaltv.world:25461/live/M8012/3422/28027.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Premier League 4(live event only)
-http://royaltv.world:25461/live/M8012/3422/28028.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Premier League 5(live event only)
-http://royaltv.world:25461/live/M8012/3422/28029.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Football
-http://royaltv.world:25461/live/M8012/3422/147.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Badminton
-http://royaltv.world:25461/live/M8012/3422/28006.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Badminton 2
-http://royaltv.world:25461/live/M8012/3422/28007.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",Astro Sports Plus
-http://royaltv.world:25461/live/M8012/3422/28008.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",[MY] sports plus 2
-http://royaltv.world:25461/live/M8012/3422/34566.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports HD(token)
-http://royaltv.world:25461/live/M8012/3422/151.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 2(token)
-http://royaltv.world:25461/live/M8012/3422/13766.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Sports",beIN Sports 3
-http://royaltv.world:25461/live/M8012/3422/152.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 4(live event only)
-http://royaltv.world:25461/live/M8012/3422/28134.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",beIN Sports 5(live event only)
-http://royaltv.world:25461/live/M8012/3422/28135.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV
-http://royaltv.world:25461/live/M8012/3422/149.ts
-#EXTINF:0 tvg-id="ext" group-title="Sports",SPOTV2
-http://royaltv.world:25461/live/M8012/3422/14229.ts
-
-
 
 
 
@@ -10516,40 +10474,18 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1", BRI LIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-name="indosiar.id" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1" , Indosiar
 https://delivery.skuyytv.xyz/stream/id_indosiar/playlist.m3u8?token=jyfds&v=20200807
 
 
 
-#EXTINF:-1 tvg-id="rbtv-4474607" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/da85ffb03146e72ce9928729dcabda51.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/L_Ir9eIe8ugU97A-GDgDV6l7bDfnUwiQ8c7LiwyFGCUP3BY0Cw.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474662" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/f4bd932b7d276a93696f4491f334c932.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/NSI6mBTmwVJ5XmcojCqbHFR4hwEDhKkOipwz9wc2nX8tk-X9Tg.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474697" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/MgCtdVK050MBPfQDxzU-I2am6GNHmf4BGQOnAXMW8LnX4WxUIQ.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474607" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/da85ffb03146e72ce9928729dcabda51.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persita Tangerang vs Isenmulang Kalteng [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/mSZqFSZ1Mr6Nxgt9RVP1pHKnmCdeYE4-VuNfJDbzwQ-GkgUJjA.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474662" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/f4bd932b7d276a93696f4491f334c932.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persijap Jepara vs Garudayaksa FC [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/fKGYUaX8Tm2LFSLhcJejlK8-Ff7tDMzNg3vsMeRKnR2DAs3vvA.m3u8?s=0&proxy_seg=1
-
-#EXTINF:-1 tvg-id="rbtv-4474697" tvg-name="⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]" tvg-logo="https://logos1.tcpwe138stya.ru/aelogo/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="BOLA | BRI LIGA 1",⏳ 19:00 WIB [Liga 1 Indonesia] Persija Jakarta vs Persebaya Surabaya [Server 1]
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-https://rbtv-resolver.xr3ed-edge.workers.dev/live/TWw2e3zf-ZgG83UngUgQ1VpcNvCULvAkarTwMW5pku8cZAfUIw.m3u8?s=0&proxy_seg=1
 
 
 
