@@ -11975,6 +11975,63 @@ http://royaltv.world:25461/live/M8012/3422/149.ts
 http://royaltv.world:25461/live/M8012/3422/14229.ts
 
 
+=======spotv indo==============
+
+#EXTINF:-1 tvg-id="119" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 1️⃣(🏆AIOS )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=119&type=license
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="120"tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL",SPOTV 2️⃣(🏆AIOS C)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=120&type=license
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+
+==SOCCER DKK
+=======================================
+
+#EXTINF:0 tvg-id="115" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE;BOLA | BUNDESLIGA;BOLA | LALIGA", SOCCER_CHANNEL 0️⃣ (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=115&type=license
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="112" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE;EVENT | ACL LEAGUE TWO;BOLA | BUNDESLIGA;BOLA | LALIGA",SPORTSTARS 1️⃣ (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=112&type=license
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="113" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE;EVENT | ACL LEAGUE TWO;BOLA | BUNDESLIGA;BOLA | LALIGA",SPORTSTARS 2️⃣ (🏆AIOS) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=113&type=license
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA LOKAL;OLAHRAGA POPULER;OLAHRAGA | BADMINTON;OLAHRAGA | BILLIARD;OLAHRAGA | GOLF;OLAHRAGA | MOTOR GP;OLAHRAGA | TENNIS;OLAHRAGA | VOLLYBALL;BOLA | UEFA NATIONS LEAGUE;EVENT | ACL LEAGUE TWO;BOLA | BUNDESLIGA;BOLA | LALIGA",SPORTSTARS 3️⃣ (🏆AIOS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=114&type=license
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
 
 
 ====
@@ -12081,22 +12138,39 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 
 BEIN INDO --> tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORTS 1 (🚀9926)
 
-#EXTINF:0 tvg-id="BEINSPORT 1 [122]" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",BEIN SPORT 1 (🏆AIOS 🇮🇩)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=122
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
 ======================================= FIX 14/10/2026
 BEIN INFO
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 1  (🏆AIOS 🇮🇩) (LYR)
-http://royaltv.world:25461/live/M8012/3422/151.ts
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 2  (🏆AIOS 🇮🇩) (LYR)
-http://royaltv.world:25461/live/M8012/3422/13766.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 3  (🏆AIOS 🇮🇩) (LYR)3
-http://royaltv.world:25461/live/M8012/3422/152.ts
+
+
+=====
+EXTINF:0 tvg-id="BEINSPORT 1 [122]" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA LOKAL;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 1  (🏆AIOS 🇮🇩)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=122&type=license
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="123" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA LOKAL;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 2  (🏆AIOS 🇮🇩)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=123&type=license
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="124" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="OLAHRAGA POPULER;OLAHRAGA LOKAL;OLAHRAGA | TENNIS;OLAHRAGA | BADMINTON;OLAHRAGA | FORMULA 1;OLAHRAGA | MOTOR GP;BOLA | LEAGUE CUP;BOLA | UEFA CHAMPIONS LEAGUE;BOLA | UEFA EUROPA LEAGUE;BOLA | UEFA NATIONS LEAGUE",🔢Bein Sports 3  (🏆AIOS 🇮🇩)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://adem1.serv00.net/vision/adem_vision2.php?id=124&type=license
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+=====
+
 
 
 
